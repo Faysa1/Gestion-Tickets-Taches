@@ -1,5 +1,5 @@
-# TODOAppAPI
-### A ToDo App API made using Django's REST Framework and Python
+
+using Django's REST Framework and Python
 
 ## Features
 #### * A RESTful API to return completed, not completed and all tasks
@@ -7,10 +7,7 @@
 #### * Color coded priority levels in the webpage for easier understanding
 #### * Date when the task was created
 
-## What I learned?
-#### * Using the REST-framework of Django to create an API for the ToDo App
-#### * Using classes in Python to create Django models
-#### * Filtering and querying models in Django and Python
+
 #### * Using *jijna* syntax in HTML5
 #### * Sorting objects of a model
 #### * Data validation of fields in a model by limiting them to choices 
@@ -19,5 +16,5 @@
 
 
 
-Bhavya Muni  
-Student - Thakur Internation School (Cambridge)
+EL FELLAHI Faysal 
+Student - hight school of technology Casablanca 'PFE'
